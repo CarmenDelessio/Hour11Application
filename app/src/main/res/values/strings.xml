@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hour11Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="choices_array">
+        <item>Setting Scale</item>
+        <item>Rotating</item>
+        <item>Alpha Values</item>
+        <item>Large Image</item>
+        <item>Drawing on Canvas</item>
+        <item>Picasso</item>
+    </string-array>
+
+    <string name="title_activity_scale">ScaleActivity</string>
+    <string name="title_activity_rotate">RotateActivity</string>
+    <string name="title_activity_alpha">AlphaActivity</string>
+    <string name="title_activity_draw">DrawActivity</string>
+    <string name="title_activity_large_image">LargeImageActivity</string>
+    <string name="title_activity_picasso">PicassoActivity</string>
+    <string name="button_rotate">Rotate</string>
+    <string name="button_draw">Draw</string>
+
+</resources>
